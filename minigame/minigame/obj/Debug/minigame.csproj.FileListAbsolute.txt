@@ -1,0 +1,10 @@
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\bin\Debug\minigame.exe.config
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\bin\Debug\minigame.exe
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\bin\Debug\minigame.pdb
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.csprojAssemblyReference.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.Form1.resources
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.Properties.Resources.resources
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.csproj.GenerateResource.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.csproj.CoreCompileInputs.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.exe
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\minigame\minigame\obj\Debug\minigame.pdb
